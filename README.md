@@ -21,8 +21,8 @@ This is a QR component card. Using only HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ReyesRo10/qr_component)
-- Live Site URL: [Add live site URL here](https://reyesro10.github.io/qr_component/)
+- Solution URL: [https://github.com/ReyesRo10/qr_component]
+- Live Site URL: [https://reyesro10.github.io/qr_component/]
 
 ## My process
 
@@ -35,4 +35,4 @@ This is a QR component card. Using only HTML and CSS.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ReyesRo10)
+- Frontend Mentor - [@ReyesRo10](https://www.frontendmentor.io/profile/ReyesRo10)
