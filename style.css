@@ -9,41 +9,46 @@
 body {
   background-color: #d5e1ef;
   font-family: "Outfit", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .main_container {
-  width: 320px;
-  height: 497px;
+  width: 20rem;
+  height: 31rem;
   background-color: #fff;
-  margin: 85px auto 16px;
   border-radius: 20px;
+  margin-bottom: 1rem;
 }
 
 .qr_image {
-  width: 288px;
-  height: 288px;
-  margin: 16px 16px;
+  width: 18rem;
+  height: 18rem;
+  margin: 1rem 1rem;
   border-radius: 10px;
 }
 .text_container {
-  width: 288px;
-  height: 129px;
+  width: 18rem;
   margin: 0 auto;
 }
 .title {
   color: #1f314f;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 1.375rem;
   text-align: center;
-  margin-bottom: 16px;
+  line-height: 1.75rem;
+  margin-bottom: 1rem;
 }
 
 .subtitle {
   color: #7d889e;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 1rem;
   text-align: center;
-  padding: 16px;
+  line-height: 19px;
 }
 
 .attribution {
@@ -52,11 +57,4 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
-
-/*Responsive design*/
-@media screen and (min-width: 1000px) {
-  .main_container {
-    margin: 152px auto 16px;
-  }
 }
