@@ -17,7 +17,7 @@ This is a QR component card. Using only HTML and CSS.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
